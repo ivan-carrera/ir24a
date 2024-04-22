@@ -1,5 +1,4 @@
-# Information Retrieval
-# Escuela Politécnica Nacional - Computación
+# Information Retrieval - Escuela Politécnica Nacional - Computación 2024-A
 
 Welcome to the Information Retrieval course for the Bachelor of Science in Computer Science. This repository contains the assignments and hands-on exercises that will help you understand and apply the concepts of Information Retrieval (IR).
 
