@@ -44,7 +44,7 @@ Hands-on exercises will be conducted during lab sessions. These exercises are de
 
 ## Getting Started
 
-1. Clone this repository to your local machine using `git clone [[repo-url](https://github.com/ivan-carrera/ir24a.git)]`.
+1. Clone this repository to your local machine using `git clone https://github.com/ivan-carrera/ir24a.git`.
 2. Install any required software and libraries as specified in the setup guide for each assignment.
 3. Follow the instructions provided in each directory for assignments and exercises.
 
