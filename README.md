@@ -30,7 +30,7 @@ By the end of this course, students will be able to:
 ## Course Structure
 
 - **Lectures**: Weekly lectures covering theory and practical applications.
-- **Assignments**: Bi-weekly assignments to be completed individually.
+- **Assignments**: Two assignments per week to be completed individually.
 - **Hands-On Exercises**: Practical sessions during labs to implement and test IR concepts.
 - **Project**: A term-end project focusing on a specific IR challenge.
 
