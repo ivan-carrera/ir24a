@@ -1,0 +1,3 @@
+Go to https://www.gutenberg.org/browse/scores/top#books-last1
+Download all 100 books in TXT
+Populate /data folder

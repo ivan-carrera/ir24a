@@ -32,7 +32,7 @@ By the end of this course, students will be able to:
 - **Lectures**: Weekly lectures covering theory and practical applications.
 - **Assignments**: Bi-weekly assignments to be completed individually.
 - **Hands-On Exercises**: Practical sessions during labs to implement and test IR concepts.
-- **Project**: A course-end project focusing on a specific IR challenge.
+- **Project**: A term-end project focusing on a specific IR challenge.
 
 ## Assignments
 
@@ -57,8 +57,29 @@ Hands-on exercises will be conducted during lab sessions. These exercises are de
 - Büttcher S., Clarke  C., Cormack G. (2016). Information Retrieval: Implementing and Evaluating Search Engines. The MIT Press
 
 ### Papers:
+#### Foundational Papers
+- Sparck Jones, K. (1972). A statistical interpretation of term specificity and its application in retrieval. _Journal of documentation_, 28(1), 11-21. Introduces the concept of Inverse Document Frequency (IDF), which is a fundamental part of the TF-IDF weighting scheme used in document scoring.
+- Rocchio Jr, J. J. (1971). Relevance feedback in information retrieval. The SMART retrieval system: experiments in automatic document processing. Describes the Rocchio algorithm for relevance feedback in vector space models, which is crucial for improving search accuracy based on user feedback.
+- Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual web search engine. _Computer networks and ISDN systems_, 30(1-7), 107-117. This is the original paper on Google's search engine design, detailing the architecture and algorithms that revolutionized how search engines operate.
+- Bates, M. J. (1989). The design of browsing and berrypicking techniques for the online search interface. _Online review_, 13(5), 407-424. Introduces the concept of berrypicking, a model of browsing in which the user refines their search query iteratively based on the information retrieved.
 
-- Additional reading materials and resources will be shared in the respective folders.
+#### Algorithms and Models
+
+- Improving Retrieval Performance by Relevance FeedbackSalton, G., & Buckley, C. (1990). Improving retrieval performance by relevance feedback. _Journal of the American society for information science_, 41(4), 288-297. Explores and provides algorithms for relevance feedback, a key technique in improving the effectiveness of IR systems.
+- Manning, C., & Klein, D. (2003, May). Optimization, maxent models, and conditional estimation without magic. In _Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics on Human Language Technology: Tutorials-Volume 5_ (pp. 8-8). Discusses maximum entropy models, which have been influential in the development of probabilistic approaches to IR.
+
+#### Modern Techniques and Machine Learning
+
+- Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. _arXiv preprint arXiv:1810.04805_.        Introduces BERT, a method using Transformers that has set new standards for how natural language processing tasks are tackled, including in IR.
+- Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. _Journal of machine Learning research_, 3(Jan), 993-1022. Describes LDA, a generative statistical model that allows sets of observations to be explained by unobserved groups, explaining how these groups can be used to learn the themes running through a text corpus.
+
+#### Evaluation and Metrics
+
+- Robertson, S., & Zaragoza, H. (2009). The probabilistic relevance framework: BM25 and beyond. _Foundations and Trends® in Information Retrieval_, 3(4), 333-389. A comprehensive review of the BM25 ranking function and the probabilistic relevance framework, which are widely used in document retrieval.
+
+#### Ethics and Bias
+
+- Hajian, S., Bonchi, F., & Castillo, C. (2016, August). Algorithmic bias: From discrimination discovery to fairness-aware data mining. In _Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining_ (pp. 2125-2126). Discusses the impact of bias in algorithmic decision-making, including retrieval systems, and approaches for creating fairness-aware algorithms.
 
 ## Contributing
 
